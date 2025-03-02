@@ -59,6 +59,7 @@ int main() {
     superPoder2 = populacao2 + area2 + PIB2 + PIBpc2 + pontosturisticos2 + (1 / densidadep2);
 
     //Carta 1
+    printf("***CARTA 01***\n");
     printf("Estado: %s\n", estado);
     printf("Código: %s\n", codigo);
     printf("Cidade: %s\n", cidade);
@@ -72,6 +73,7 @@ int main() {
 
 
     //Carta 2
+    printf("***CARTA 02***\n");
     printf("Estado: %s\n", estado2);
     printf("Código: %s\n", codigo2);
     printf("Cidade: %s\n", cidade2);
