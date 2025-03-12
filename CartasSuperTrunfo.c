@@ -91,7 +91,7 @@ int main() {
     }else{
         printf("Carta 2 Venceu\n");
     }
-    if(população > população2) {
+    if(populacao > populacao2) {
         printf("Carta 1 Venceu\n");
     }else{
         printf("Carta 2 Venceu\n");
